@@ -10,10 +10,10 @@
       style="margin-left: 25%"
     >
       <v-col>
-      <v-btn icon color="cyan darken-1" to="/"  >
+      <v-btn icon color="cyan darken-1" to="./"  >
           <v-icon>mdi-upload</v-icon>
       </v-btn>
-      <v-btn icon color="cyan darken-1" to="info">
+      <v-btn icon color="cyan darken-1" to="./info">
         <v-icon >mdi-information</v-icon>
       </v-btn>
       </v-col>
