@@ -1,6 +1,6 @@
 # ipfsfileuploader
 
-Clone it and use below code to run.
+Clone it and use below code to run it.
 ## Build Setup
 
 ```bash
@@ -18,4 +18,9 @@ $ npm run start
 $ npm run generate
 ```
 
+## Docker
+by running Bellow Command you can make docker image to use it.
+```bash
+sudo docker build -t rambod/ipfsfileuploader:1.0 .
+```
 
