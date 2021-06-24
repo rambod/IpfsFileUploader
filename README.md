@@ -1,6 +1,10 @@
 # ipfsfileuploader
 
 Clone it and use below code to run it.
+
+To use it without clone code and build it you can use link bellow:
+[WebApp Link](https://rambod.github.io/IpfsFileUploader/)
+
 ## Build Setup
 
 ```bash
