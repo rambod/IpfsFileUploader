@@ -2,7 +2,7 @@
 
 Clone it and use below code to run it.
 
-To use it without clone code and build it you can use link this:
+To use it without clone code and build it you can use this link:
 [WebApp Link](https://rambod.github.io/IpfsFileUploader/)
 
 ## Build Setup
